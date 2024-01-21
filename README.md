@@ -8,3 +8,5 @@ Session to tdata telegram bot
 4. Пишем в консоль из данной папки(основной) pip install -r requirements.txt
 5. Заходим в файл config.py и вставляем в него токен бота вместо YOUR_BOT_TOKEN.
 6. Пишем в консоль python3 bot.py(в терминале windows python bot.py)
+
+Рекомендую использовать python 3.10, но скрипт написан под python 3.8
