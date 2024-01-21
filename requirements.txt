@@ -1,0 +1,5 @@
+aiogram==2.25.1
+conversion==0.0.7
+config==0.5.1
+opentele==1.15.1
+asyncio==3.4.3
